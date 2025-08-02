@@ -1,2 +1,3 @@
 Create file2.txt
 Add new line
+Feature 2
