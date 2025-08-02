@@ -2,3 +2,4 @@ Create file3.txt
 Add new line
 Feature 3
 Feature B
+Feature C
