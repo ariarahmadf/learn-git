@@ -1,0 +1,8 @@
+# Ignore folder "ignore"
+ignore/
+
+# Ignore file dengan ekstensi ".backup"
+*.backup
+
+# Ignore file dengan nama "ignore.txt"
+ignore.txt
