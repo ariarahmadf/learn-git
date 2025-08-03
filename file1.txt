@@ -6,3 +6,4 @@ Feature B
 Feature C
 Add new line
 Add new line
+Feature Merge-Squash
