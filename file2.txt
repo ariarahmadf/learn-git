@@ -4,3 +4,4 @@ Feature 2
 Feature A
 Feature Rebase
 Feature Merge-Squash
+Add new line
