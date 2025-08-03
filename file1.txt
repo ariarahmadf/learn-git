@@ -3,3 +3,4 @@ Add new line
 Feature 1
 Feature A
 Feature B
+Feature C
